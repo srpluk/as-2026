@@ -5,10 +5,11 @@ za celý školní rok. Odevzdává se commitem, ne mailem.
 
 ## Struktura
 
-- `2026-09/` — září: Git, první data
-- `2026-10/` — říjen: relační model
+- 2026-09 — září: Git, první data
+- 2026-10 — říjen: relační model
 - (další měsíce přibudou)
 
 ## Kdo
 
 Kód žáka: 21 · třída IT2# as-2026
+Založeno 21. 9. 2026
